@@ -1,0 +1,42 @@
+site_name: MEDHIRA React TypeScript Hooks
+site_url: https://medhira-react-typescript-hooks.readthedocs.io
+site_description: Custom React hooks - Engineering Intelligence Across Everything
+site_author: MEDHIRA Team
+
+repo_url: https://github.com/HELLOMEDHIRA/medhira-react-typescript-hooks
+
+copyright: "Copyright &copy; 2024 MEDHIRA"
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  logo: https://github.com/HELLOMEDHIRA/medhira/blob/main/assets/medhira-logo.png
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Installation: getting-started/installation.md
+      - Quick Start: getting-started/quick-start.md
+  - Hooks:
+      - useDefaultReducer: hooks/usedefaultreducer.md
+  - About:
+      - License: about/license.md
+      - Contributing: about/contributing.md
+
+extra:
+  version: 0.0.1
