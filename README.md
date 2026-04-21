@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/HELLOMEDHIRA/medhira/blob/main/assets/medhira-logo.png" alt="MEDHIRA Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/HELLOMEDHIRA/medhira/main/assets/medhira-logo.png" alt="MEDHIRA Logo" width="200"/>
 </p>
 
 <p align="center">

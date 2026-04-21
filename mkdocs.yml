@@ -18,7 +18,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  logo: https://github.com/HELLOMEDHIRA/medhira/blob/main/assets/medhira-logo.png
+  logo: https://raw.githubusercontent.com/HELLOMEDHIRA/medhira/main/assets/medhira-logo.png
 
 plugins:
   - search
