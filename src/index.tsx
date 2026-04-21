@@ -1,2 +1,2 @@
-import useDefaultReducer from './hooks/useDefaultReducer'
-export { useDefaultReducer }
+import useDefaultReducer from "./hooks/useDefaultReducer";
+export { useDefaultReducer };
